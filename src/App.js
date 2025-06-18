@@ -86,6 +86,10 @@ function App() {
 
   return (
     <section>
+      <div className="landing">
+        <h1>مواقيت الصلاة في المغرب</h1>
+        <p>اختر مدينتك لمعرفة أوقات الصلاة حسب التاريخ الحالي.</p>
+      </div>
       <div className="container">
         <div className="top-section">
           <div className="city">

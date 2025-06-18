@@ -106,6 +106,7 @@ function App() {
         </div>
 
         <Prayer name={"الفجر"} time={prayerTimes.data?.timings?.Fajr} />
+        <Prayer name={"الصبح"} time={prayerTimes.data?.timings?.Sunrise} />
         <Prayer name={"الظهر"} time={prayerTimes.data?.timings?.Dhuhr} />
         <Prayer name={"العصر"} time={prayerTimes.data?.timings?.Asr} />
         <Prayer name={"المغرب"} time={prayerTimes.data?.timings?.Maghrib} />

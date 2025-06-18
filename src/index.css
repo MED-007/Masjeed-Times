@@ -83,3 +83,25 @@ section .prayer{
   border: 1px solid #d7d7d74e;
 
 }
+
+
+.landing {
+
+  width: 650px;
+  background-color: #332a224e;
+  padding: 30px 25px;
+  backdrop-filter: blur(10px);
+  border-radius: 5px 100px 100px 5px;
+  border: 1.5px solid #d7d7d74e;
+}
+
+.landing h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.landing p {
+  font-size: 1.2rem;
+  color: #000000;
+}
